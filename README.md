@@ -58,3 +58,13 @@
 
 <br>
 <br>
+
+> ## Color Picker
+- Displays a **visual color picker** when clicked, using a color picker native to the device.
+
+``` 
+    <input type="color">
+```
+
+<br>
+<br>

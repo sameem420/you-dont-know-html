@@ -14,7 +14,7 @@
 <br>
 <br>
 
-> ## Data Tag
+> ## Data TAG
 - Provides both a **machine-readable** value for data processors & a **human-readable** value for browsers.
 
 ``` 
@@ -28,10 +28,32 @@
 <br>
 
 > ## Theme Color Changer
-- This meta tag changes the theme color for popular web browsers like chrome.
+- This meta tag changes the **theme color** for popular web browsers like chrome.
 
 ``` 
     <meta name="theme-color" content="#1b1b1b">
+```
+
+<br>
+<br>
+
+> ## < DFN > TAG
+- Represents the **defining instance** of a term. The instance is often the first use of term in document.
+
+``` 
+    <p>
+        <dfn>HTML</dfn> is a markup language
+    </p>
+```
+
+<br>
+<br>
+
+> ## Icon Adder
+- This link tag adds a **favicon** to your webpage that will be shown in the browser tab.
+
+``` 
+    <link rel="icon" href="path_of_icon/name_of_icon.ico">
 ```
 
 <br>

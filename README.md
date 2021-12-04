@@ -22,7 +22,16 @@
       <li><data value="10">Mouse</data></li>
       <li><data value="11">Keyboard</data></li>
     </ul> 
+```
 
+<br>
+<br>
+
+> ## Theme Color Changer
+- This meta tag changes the theme color for popular web browsers like chrome.
+
+``` 
+    <meta name="theme-color" content="#1b1b1b">
 ```
 
 <br>
